@@ -3,6 +3,8 @@
 A clone of the good old Minesweeper game, trying to keep the original style as much as possible. Powered by 
 [raylib-go](https://github.com/gen2brain/raylib-go).
 
+<img src="img/screenshot.png" width="420">
+
 ## How to Play
 
 Just launch the binary and play!
