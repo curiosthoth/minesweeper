@@ -7,7 +7,7 @@ const (
 	GapWidth                  float32 = 1.0 // Gap between elements in the texture
 	SmileyW                   float32 = 24.0
 	SmileyH                   float32 = 24.0
-	SmileyOffsetX             float32 = 1.0
+	SmileyOffsetX             float32 = 2.0
 	SmileyOffsetY             float32 = 25.0
 	CellW                     float32 = 16.0
 	CellH                     float32 = 16.0
