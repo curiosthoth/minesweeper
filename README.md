@@ -15,9 +15,10 @@ $ ./minesweeper
 You can also specify the size of the board and the number of mines.
 
 ```shell
-$ ./minesweeper -w 30 -h 20 -m 100
+$ ./minesweeper -r 30 -c 20 -m 100
 ````
 
+where, `-r` is the number of rows; `-c` is the number of columns; `-m` is the number of mines.
 
 ## How to Build
 

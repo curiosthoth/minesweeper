@@ -8,8 +8,8 @@ import (
 func parseCliArgs() (int, int, int) {
 	rows, cols, numberOfMines := 0, 0, 0
 	flag.IntVar(&rows, "r", 9, "Number of rows")
-	flag.IntVar(&cols, "c", 9, "Number of rows")
-	flag.IntVar(&numberOfMines, "m", 10, "Number of rows")
+	flag.IntVar(&cols, "c", 9, "Number of columns")
+	flag.IntVar(&numberOfMines, "m", 10, "Number of mines")
 	flag.Parse()
 	return rows, cols, numberOfMines
 }
